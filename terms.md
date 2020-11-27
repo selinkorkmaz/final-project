@@ -13,9 +13,10 @@ layout: default
 ## Electoral College Terms 
 1. **`Elector`**: Those chosen to be a member of the electoral college and elect the President and Vice President. 
 2. **`Electoral College`**: The presidential electors from each state (and DC) who meet after the popular election to cast ballots for the President and Vice President. 
-3. **`National Popular Vote`**: Would guarantee the Presidency to the candidates who receives the most popular votes in all 50 states and the District of Columbia. It has been enacted into law by 15 states and DC with 196 electoral votes. It needs an additional 74 electoral votes to go into effect. 
-4. **`Safe State`**: A state in which voters are known to favor one political party by such a margin that it can be reliably predicted in advance of the presidential election which slate of Electors will be chosen.
-5. **`Swing State`**: A state for whom the outcome of a presidential election is difficult to predict because the margin is expected to be narrow. Swing states are sometimes known as "purple states" because they are not uniformly red (Republican) or blue (Democrat). 
+3. **`Faithless Elector`**: An elector who does not vote for their pledged candidate.
+4. **`National Popular Vote`**: Would guarantee the Presidency to the candidates who receives the most popular votes in all 50 states and the District of Columbia. It has been enacted into law by 15 states and DC with 196 electoral votes. It needs an additional 74 electoral votes to go into effect. 
+5. **`Safe State`**: A state in which voters are known to favor one political party by such a margin that it can be reliably predicted in advance of the presidential election which slate of Electors will be chosen.
+6. **`Swing State`**: A state for whom the outcome of a presidential election is difficult to predict because the margin is expected to be narrow. Swing states are sometimes known as "purple states" because they are not uniformly red (Republican) or blue (Democrat). 
 
 ## Other Important Terms
 1. **`Absentee Ballot`**: A ballot filed by a voter who cannot be present at their polling place on Election Day.
