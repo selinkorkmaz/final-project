@@ -17,4 +17,12 @@ For more information visit [Center for Disease Control](https://www.cdc.gov/coro
 <br/>
 
 ## Do I have to wear a mask to vote? 
-It depends on your county or local government. If they have a mask requirement in place, you must wear a mask at a polling place. However, Texas does not require masks at polling places; it is instead encouraged. Your mask cannot have affiliated parties or candidates shown. 
+It depends on your county or local government. If they have a mask requirement in place, you must wear a mask at a polling place. However, Texas does not require masks at polling places; it is instead highly encouraged. Your mask cannot have affiliated parties or candidates shown. 
+<br/>
+
+## Do I have to remove my mask at the request of an election clerk?
+Yes. Election clerks can request a voter to temporarily remove their face covering solely for verifying a voter's identity. If you refuse to remove your face mask, an election clerk _must_ provide a provisional ballot. A provisional ballot does not count as a vote until any voting deficiencies resolve with the county's voter registrar. 
+<br/> 
+
+## What if I have COVID or COVID related symptoms? 
+We recommend those with COVID or experiencing COVID related symptoms participate in mail-in voting. However, suppose you cannot apply to vote by mail. In that case, there are other alternatives like requesting curbside voting, priority voting (i.e., skipping the line when voting in-person), or in-person voting with a face mask. An election clerk _cannot_ prevent you from voting. _We recommend those with COVID symptoms opt for curbside voting to limit exposure to in-person voters._
