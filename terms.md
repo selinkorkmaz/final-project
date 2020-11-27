@@ -17,3 +17,20 @@ layout: default
 4. **`Safe State`**: A state in which voters are known to favor one political party by such a margin that it can be reliably predicted in advance of the presidential election which slate of Electors will be chosen.
 5. **`Swing State`**: A state for whom the outcome of a presidential election is difficult to predict because the margin is expected to be narrow. Swing states are sometimes known as "purple states" because they are not uniformly red (Republican) or blue (Democrat). 
 
+## Other Important Terms
+1. **`Absentee Ballot`**: A ballot filed by a voter who cannot be present at their polling place on Election Day.
+2. **`Constituent`**: A person who lives, works, or pays taxes in an area that a politician represents. 
+3. **`Distrct`**: A geographical area that an elected official serves or represents.
+4. **`Election Fraud`**: Criminal activity that impacts the integrity of an election. 
+5. **`Impeachment`**: The process to remove a high-level government official. 
+6. **`Inauguration`**: A day of ceremony in which a newly-elected official takes office. This usually involves a swearing-in ceremony, speeches, and celebrations.
+7. **`Incumbent`**: The person currently in a particular job or political office.
+8. **`Nominee`**: The final candidate chosen by a party to represent them in an election.
+9. **`Political Action Committee`**: A group organized to raise money or support for a politician or cause.
+10. **`Political Party`**: A group whose intent is to govern and legislate in a specific way based on a chosen set of principles or platform.
+11. **`Popular Vote`**: The votes cast during an election for a candidate or about an issue. Whichever candidate or decision about an issue gets the most votes has won the popular vote. 
+12. **`Precinct`**: Each city, county, or geographical area is divided by address into precincts to assign polling places and gather votes. A precinct can sometimes be called an election district or voting district. 
+13. **`Provisional Ballot`**: Type of ballot used to collect a vote when there are questions about the voter's identity or ability to vote at that precinct. A provisional ballot is counted when the voter's information is confirmed. 
+14. **`Recount`**: Counting the votes again because of a suspected error in totaling them the first time.
+15. **`Registered Voter`**: Someone who is qualified, has applied and been added to their area's voter registration system.
+16. **`Sample Ballot`**: These can be used to help people make decisions, and are often published by newspapers or websites.
