@@ -34,3 +34,10 @@ layout: default
 14. **`Recount`**: Counting the votes again because of a suspected error in totaling them the first time.
 15. **`Registered Voter`**: Someone who is qualified, has applied and been added to their area's voter registration system.
 16. **`Sample Ballot`**: These can be used to help people make decisions, and are often published by newspapers or websites.
+17. **`Super Tuesday`**: The day when the most states and territories hold presidential primary elections or caucuses. The candidates who win on Super Tuesday are more likely to win their party's nomination. 
+18. **`Term`**: The set length of time for someone to serve in an elected office.
+19. **`Ticket`**: The group of candidates that a party is running in an election.
+20. **`Town Hall Meeting`**: A setting in which candidates for office answer questions from voters. In a town hall-style debate, a moderator helps ensure candidates follow the rules they agreed to.
+21. **`Voter Fraud`**: Interfering with the results of an election by doing illegal things that affect the vote's outcome.
+22. **`Voter Supression`**: An attempt to prevent eligible people from voting or forcing them to vote a certain way.
+23. **`Voter Guide`**: Information about candidates and issues in an upcoming election- may be non-partisan or may favor a particular party/viewpoint. 
