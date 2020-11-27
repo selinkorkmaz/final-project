@@ -13,4 +13,4 @@ layout: default
 <br/>
 **`November 3, 2020`** - Election day and postmark deadline for mail in votes
 
-<iframe src='https://media.giphy.com/media/U9MXYXKnLAqQIRROY2/giphy.gif' frameborder='0' scrolling='no' allowfullscreen width='440' height='600'></iframe>
+<iframe src='https://giphy.com/gifs/U9MXYXKnLAqQIRROY2/html5' frameborder='0' scrolling='no' allowfullscreen width='400' height='400'></iframe>
