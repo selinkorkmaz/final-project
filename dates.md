@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Important Dates
+# US Election 2020 Voting Schedule 
 
 **`October 5, 2020`** - Last day to register to vote in November election
 <br/>
