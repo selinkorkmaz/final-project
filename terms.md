@@ -9,3 +9,11 @@ layout: default
 5. **`Closed Primary`**: A primary election only available to voters registered with a particular political party. In jurisdictions with closed primaries, independent or unaffiliated voters are excluded from participating in the party nomination contests. 
 6. **`Caucus`**: A meeting of supporters or members of a specific political party or movement. Some states use in-person caucuses to allocate delegates for presidential elections, rather than party primaries. The word caucus can also sometimes refer to a group of like-minded people, such as the Congressional Black Caucus.
 7. **`Louisiana Primary`**: It is similar to a Top-Two Primary, with candidates competing regardless of a political party, but it is a general election rather than a primary election. The candidate who receives a majority is elected. If no candidate wins a majority, a runoff election is held between the top two candidates. This system is used for U.S. Senate special elections in Mississippi and Texas, and special elections for partisan offices in Georgia. 
+
+## Electoral College Terms 
+1. **`Elector`**: Those chosen to be a member of the electoral college and elect the President and Vice President. 
+2. **`Electoral College`**: The presidential electors from each state (and DC) who meet after the popular election to cast ballots for the President and Vice President. 
+3. **`National Popular Vote`**: Would guarantee the Presidency to the candidates who receives the most popular votes in all 50 states and the District of Columbia. It has been enacted into law by 15 states and DC with 196 electoral votes. It needs an additional 74 electoral votes to go into effect. 
+4. **`Safe State`**: A state in which voters are known to favor one political party by such a margin that it can be reliably predicted in advance of the presidential election which slate of Electors will be chosen.
+5. **`Swing State`**: A state for whom the outcome of a presidential election is difficult to predict because the margin is expected to be narrow. Swing states are sometimes known as "purple states" because they are not uniformly red (Republican) or blue (Democrat). 
+
