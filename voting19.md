@@ -14,3 +14,7 @@ The State of Texas at the moment has not implemented specific or expanded method
 4. **`Do not touch your face`**: Avoid touch your face to prevent the spread of the virus. 
 
 For more information visit [Center for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/your-health/need-to-know.html).
+<br/>
+
+## Do I have to wear a mask to vote? 
+It depends on your county or local government. If they have a mask requirement in place, you must wear a mask at a polling place. However, Texas does not require masks at polling places; it is instead encouraged. Your mask cannot have affiliated parties or candidates shown. 
