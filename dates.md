@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## US Election 2020 Voting Schedule 
+# Important Dates
 
 **`October 5, 2020`** - Last day to register to vote in November election
 <br/>
@@ -12,3 +12,5 @@ layout: default
 **`October 30, 2020`** - Last day of in-person early voting
 <br/>
 **`November 3, 2020`** - Election day and postmark deadline for mail in votes
+
+<iframe src='https://media.giphy.com/media/U9MXYXKnLAqQIRROY2/giphy.gif' frameborder='0' scrolling='no' allowfullscreen width='440' height='600'></iframe>
