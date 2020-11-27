@@ -12,3 +12,5 @@ The State of Texas at the moment has not implemented specific or expanded method
 2. **`Stay 6 feet apart`**: Try to distance yourself by 6 feet from other voters or election clerks. 
 3. **`Wear protective gear`**: Wear a mask that covers your nose and mouth. The most effective masks include surgical, cloth, or N95. Avoid wearing a bandana or neck gaiter as these materials are less effective. Consider wearing a face sheild or goggles to protect your eyes from droplets. Lastly, consider wearing gloves while in the polling place and disposing of them once you can safely wash or sanitize your hands. 
 4. **`Do not touch your face`**: Avoid touch your face to prevent the spread of the virus. 
+
+For more information visit [Center for Disease Control's](https://www.cdc.gov/coronavirus/2019-ncov/your-health/need-to-know.html).
