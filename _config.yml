@@ -2,7 +2,9 @@
 # This file contains configuration flags to customize your site
 #
 # Name of your site (displayed in the header)
+<div class="text-blue mb-2">
 title: Voting in Texas
+</div>
 # Short bio or description (displayed in the header)
 description: A Blog
 
