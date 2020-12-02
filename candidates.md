@@ -1,8 +1,7 @@
 ---
 layout: post
-title: First Time Voter Checklist 
+title: Candidate's Information 
 ---
-## SEE WHAT'S ON YOUR BALLOT
 Check out the candidates and what their stances are on important issues: 
 * **`Republican Party`**: [Donald Trump](https://ballotpedia.org/Donald_Trump_presidential_campaign,_2020)
 * **`Democratic Party`**: [Joe Biden](https://ballotpedia.org/Joe_Biden_presidential_campaign,_2020)
