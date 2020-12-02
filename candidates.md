@@ -2,6 +2,7 @@
 layout: post
 title: Candidate's Information
 ---
+## Candidate's Information
 Check out the candidates and what their stances are on important issues: 
 * **`Republican Party`**: [Donald Trump](https://ballotpedia.org/Donald_Trump_presidential_campaign,_2020)
 * **`Democratic Party`**: [Joe Biden](https://ballotpedia.org/Joe_Biden_presidential_campaign,_2020)
