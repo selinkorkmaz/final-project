@@ -12,8 +12,10 @@ Check out the candidates and what their stances are on important issues:
   - Joe Biden's [Website](https://joebiden.com/joes-story/)
 * **`Green Party`**: [Howie Hawkins](https://ballotpedia.org/Howie_Hawkins_presidential_campaign,_2020)
   - [Green Party Platform](https://www.gp.org/platform)
+  - Howie Hawkins' [Website](https://howiehawkins.us/)
 * **`Libertarian Party`**: [Jo Jorgensen](https://ballotpedia.org/Jo_Jorgensen_presidential_campaign,_2020)
   - [Libertarian Party Platform](https://www.lp.org/platform/)
+  - Jo Jorgensen's [Website](https://jo20.com/)
 
 Enter an address and a personalized ballot will be generated as a reference. To learn more click [here](https://www.vote411.org/). 
 
