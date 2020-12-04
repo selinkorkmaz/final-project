@@ -10,7 +10,7 @@ title: Absentee Voting
 
 ## Instructions for submitting an Application for Ballot by Mail in Texas (“ABBM”):
 1. [Print (PDF)](https://webservices.sos.state.tx.us/forms/5-15f.pdf) the ABBM form
-2. OR submit an order online and an ABBM will be mailed to you.
+2. OR submit an [order online](https://bbm.sos.state.tx.us/bbm.asp) and an ABBM will be mailed to you.
 3. Complete Sections 1 through 8.
 4. Sign and Date Section 10.
 5. If you were unable to sign the application and someone witnessed your signature, that person must complete Section 11.
@@ -20,7 +20,7 @@ title: Absentee Voting
   2. If you ordered the application online and it was mailed to you - fold the application in half, moisten top tab, seal and add postage.
 8. Address and mail the completed ABBM to the Early Voting Clerk in your county. You may also fax the application if a fax machine is available in the early voting clerk’s office.  You also have the option of submitting a scanned copy of the completed and signed application to the Early Voting Clerk via email. If an ABBM is faxed or emailed, then the original, hard copy of the application MUST be mailed and received by the early voting clerk no later than the 4th business day.
   1. The Early Voting Clerk is the County Clerk or Elections Administrator for your county
-  2. Contact information, including mailing addresses, fax numbers if available, and email addresses for the Early Voting Clerks are available on this website.
+  2. [Contact information](https://www.sos.state.tx.us/elections/voter/county.shtml), including mailing addresses, fax numbers if available, and email addresses for the Early Voting Clerks are available on this website.
 
 ## NOTICE: Do not mail, fax, or email completed applications for Ballot by Mail to the Secretary of State Office. All applications received by this office will be rejected. 
 
@@ -32,7 +32,7 @@ Request deadlines:
 Ballot Deadlines: 
   Voted ballots are due: Postmarked by Election Day and received by the day after Election Day. 
 
-## Reasons your mail in ballot could be rejected (taken from the Notice of Rejected Ballot that you would receive):
+## Reasons your mail in ballot could be rejected (taken from the [Notice of Rejected Ballot](https://www.sos.state.tx.us/elections/forms/pol-sub/5-42f.pdf) that you would receive):
 - Certificate on carrier envelope was not properly executed. 
 - You failed to sign your signature or make your mark. 
 - The witness failed to indicate on the envelope that you could not make a mark. 
@@ -49,6 +49,6 @@ Ballot Deadlines:
 - No identification was included with your mail ballot.
 - Other:_____
 
-## Military and overseas voters are welcome to use the regular registration and early voting by mail process available to all voters away from their home county on Election Day. However, there are also special provisions for military and overseas voters.
+## Military and overseas voters are welcome to use the regular registration and early voting by mail process available to all voters away from their home county on Election Day. However, there are also [special provisions for military and overseas voters](https://www.votetexas.gov/military-overseas-voters/index.html).
 
-## For more information, please read the Early Voting in Texas pamphlet.
+## For more information, please read the [Early Voting in Texas pamphlet](https://www.votetexas.gov/voting/when.html#early-voting).
