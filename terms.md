@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Primary Election Methods ![img1](img1.jpeg)
+## Primary Election Methods ![img1](img1.jpg)
 1. **`Open Primary`**: A primary election in which a separate primary election is held for each political party, but voters may participate in any such primary regardless of their party registration.
 2. **`Semi-Closed Primary`**: A primary election in which a separate primary election is held for each political party, and the primary is open either to voters registered with that party or to unaffiliated voters, who may choose which semi-closed primary they participate in.
 3. **`Blanket Primary`**: A primary election includes all candidates for an office, regardless of their respective political party. Each voter votes for one candidate ,and the single candidate with the most votes from each political party advances to the general election.
