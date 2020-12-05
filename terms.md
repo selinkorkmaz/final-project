@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Primary Election Methods ![img1](img1.jpg)
+## Primary Election Methods 
 1. **`Open Primary`**: A primary election in which a separate primary election is held for each political party, but voters may participate in any such primary regardless of their party registration.
 2. **`Semi-Closed Primary`**: A primary election in which a separate primary election is held for each political party, and the primary is open either to voters registered with that party or to unaffiliated voters, who may choose which semi-closed primary they participate in.
 3. **`Blanket Primary`**: A primary election includes all candidates for an office, regardless of their respective political party. Each voter votes for one candidate ,and the single candidate with the most votes from each political party advances to the general election.
@@ -42,3 +42,5 @@ layout: default
 21. **`Voter Fraud`**: Interfering with the results of an election by doing illegal things that affect the vote's outcome.
 22. **`Voter Supression`**: An attempt to prevent eligible people from voting or forcing them to vote a certain way.
 23. **`Voter Guide`**: Information about candidates and issues in an upcoming election- may be non-partisan or may favor a particular party/viewpoint. 
+
+![img1](img1.jpg)
