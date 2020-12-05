@@ -59,7 +59,7 @@ First, make sure you are at the right polling place. If you are at the wrong pol
 5. For voters that applied for and received the permanent exemption from showing a photo ID based in their disability status, this status will be notated on their voter registration certificate. These voters are required to present their voter registration certificate when they go to the polls to vote.
 6. If you lose your certificate, notify your county [Voter Registrar](https://www.sos.state.tx.us/elections/voter/votregduties.shtml) in writing to receive a new one.
 7. You will automatically receive a new certificate every two years if you haven’t moved from the address at which you are registered.
-8. example image
+8. ![example image](card.png)
 
 ## Are phones allowed in polling places? 
 Persons are not allowed to use wireless communications devices within 100 feet of the voting stations. Additionally, persons are not allowed to use mechanical or electronic devices to record sound or images within 100 feet of the voting stations. Tex. Elec. Code §§ 61.014(a), 81.002.
