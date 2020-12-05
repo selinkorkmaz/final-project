@@ -2,6 +2,9 @@
 layout: post
 title: Absentee Voting
 ---
+
+<iframe src="https://giphy.com/embed/4QMcpaQXZOEshaUVsj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loharris-vote-loharrisvote-4QMcpaQXZOEshaUVsj">via GIPHY</a></p>
+
 ## To be eligible to vote early by mail in Texas, you must: 
 1. Be 65 years or older;
 2. Be sick or disabled;
