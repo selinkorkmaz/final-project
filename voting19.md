@@ -26,3 +26,5 @@ Yes. Election clerks can request a voter to temporarily remove their face coveri
 
 ## What if I have COVID or COVID related symptoms? 
 We recommend those with COVID or experiencing COVID related symptoms participate in mail-in voting. However, suppose you cannot apply to vote by mail. In that case, there are other alternatives like requesting curbside voting, priority voting (i.e., skipping the line when voting in-person), or in-person voting with a face mask. An election clerk _cannot_ prevent you from voting. _We recommend those with COVID symptoms opt for curbside voting to limit exposure to in-person voters._
+
+![img2](img2.jpg)
