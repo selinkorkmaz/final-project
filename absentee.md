@@ -3,13 +3,13 @@ layout: post
 title: Absentee Voting
 ---
 
-<iframe src="https://giphy.com/embed/4QMcpaQXZOEshaUVsj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loharris-vote-loharrisvote-4QMcpaQXZOEshaUVsj">via GIPHY</a></p>
-
 ## To be eligible to vote early by mail in Texas, you must: 
 1. Be 65 years or older;
 2. Be sick or disabled;
 3. Be out of the county on election day and during the period for early voting by personal appearance; or
 4. Be confined in jail, but otherwise eligible.
+
+<iframe src="https://giphy.com/embed/4QMcpaQXZOEshaUVsj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loharris-vote-loharrisvote-4QMcpaQXZOEshaUVsj">via GIPHY</a></p>
 
 ## Instructions for submitting an Application for Ballot by Mail in Texas (“ABBM”):
 1. [Print (PDF)](https://webservices.sos.state.tx.us/forms/5-15f.pdf) the ABBM form
