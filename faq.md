@@ -42,19 +42,24 @@ First, make sure you are at the right polling place. If you are at the wrong pol
 ## What do I do if I moved? 
 **1. `Did you move within your county?`**
   - If you moved from one place to another in the same county, you’ll need to notify the [Voter Registrar](http://www.sos.state.tx.us/elections/voter/votregduties.shtml) in your county in writing of your new address. (In most Texas counties, the Tax Assessor-Collector is also the Voter Registrar. In some counties, the [County Clerk or Elections Administrator](http://www.sos.state.tx.us/elections/voter/current.shtml) registers voters.) 
-  
+<br/>
+
   There are several ways to do this:
-    - Correct your current voter registration certificate on the back and return it to the [Voter Registrar](http://www.sos.state.tx.us/elections/voter/votregduties.shtml).
-    - Fill out a new voter registration application form and check the “change” box.
-    - When you apply for or change your Texas driver’s license, change your voter information at the same time.
-    - As long as you reside in the same county, you can change your information online at the [Secretary of State’s Voter Registration Name/Address Change](https://txapps.texas.gov/tolapp/sos/SOSACManager) website. The screen will prompt you through the process and the changes that you make will be forwarded to your county [Voter Registrar](http://www.sos.state.tx.us/elections/voter/votregduties.shtml) for processing. You will be mailed a new certificate with your new address and be able to vote in your new precinct 30 days after you submitted your change. If you miss the 30-day deadline to change information on your voter registration certificate, you may vote in your former precinct as long as you still reside in the political subdivision conducting the election.
+  
+* Correct your current voter registration certificate on the back and return it to the [Voter Registrar](http://www.sos.state.tx.us/elections/voter/votregduties.shtml).
+* Fill out a new voter registration application form and check the “change” box.
+* When you apply for or change your Texas driver’s license, change your voter information at the same time.
+* As long as you reside in the same county, you can change your information online at the [Secretary of State’s Voter Registration Name/Address Change](https://txapps.texas.gov/tolapp/sos/SOSACManager) website. 
+  * The screen will prompt you through the process and the changes that you make will be forwarded to your county [Voter Registrar](http://www.sos.state.tx.us/elections/voter/votregduties.shtml) for processing. You will be mailed a new certificate with your new address and be able to vote in your new precinct 30 days after you submitted your change. If you miss the 30-day deadline to change information on your voter registration certificate, you may vote in your former precinct as long as you still reside in the political subdivision conducting the election.
+<br/>
+
 **2. `Did you move to another county?`**
-  - If you moved to another county, YOU MUST RE-REGISTER! Fill out and mail a new application, or take it in person, to the [Voter Registrar](http://www.sos.state.tx.us/elections/voter/votregduties.shtml) of your new county. (In most Texas counties, the Tax Assessor-Collector is also the Voter Registrar. In some counties, the [County Clerk or Elections Administrator](http://www.sos.state.tx.us/elections/voter/current.shtml) registers voters.) You will receive a new voter registration certificate 30 days after your application is submitted and accepted.
-  - If you are late to register in your new county, you may be able to vote a “limited” ballot on candidates or issues common between your old and new counties. You may only vote this “limited” ballot after you have moved to your new residence, during the early voting period by personal appearance at the main early voting polling place (not on Election Day) or by mail (if otherwise qualified to vote by mail) and if:
-    - You are a current registered voter in your former county;
-    - You would be eligible to vote in your former county on Election Day, if you were still living in that county;
-    - You have not re-registered in the new county, or, if you have re-registered, the effective date of the new registration will not be effective on or before Election day.
-    - If you feel you qualify to vote a limited ballot, we recommend that you contact the office of the [Early Voting Clerk](http://www.sos.state.tx.us/elections/voter/county.shtml) in your new county.
+* If you moved to another county, YOU MUST RE-REGISTER! Fill out and mail a new application, or take it in person, to the [Voter Registrar](http://www.sos.state.tx.us/elections/voter/votregduties.shtml) of your new county. (In most Texas counties, the Tax Assessor-Collector is also the Voter Registrar. In some counties, the [County Clerk or Elections Administrator](http://www.sos.state.tx.us/elections/voter/current.shtml) registers voters.) You will receive a new voter registration certificate 30 days after your application is submitted and accepted.
+* If you are late to register in your new county, you may be able to vote a “limited” ballot on candidates or issues common between your old and new counties. You may only vote this “limited” ballot after you have moved to your new residence, during the early voting period by personal appearance at the main early voting polling place (not on Election Day) or by mail (if otherwise qualified to vote by mail) and if:
+  * You are a current registered voter in your former county;
+  * You would be eligible to vote in your former county on Election Day, if you were still living in that county;
+  * You have not re-registered in the new county, or, if you have re-registered, the effective date of the new registration will not be effective on or before Election day.
+  * If you feel you qualify to vote a limited ballot, we recommend that you contact the office of the [Early Voting Clerk](http://www.sos.state.tx.us/elections/voter/county.shtml) in your new county.
     
 ## What is a voter registration card? 
 1. After you apply, a voter registration certificate (your proof of registration) will be mailed to you within 30 days.
