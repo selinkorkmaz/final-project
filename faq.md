@@ -67,7 +67,7 @@ There are several ways to do this:
 5. For voters that applied for and received the permanent exemption from showing a photo ID based in their disability status, this status will be notated on their voter registration certificate. These voters are required to present their voter registration certificate when they go to the polls to vote.
 6. If you lose your certificate, notify your county [Voter Registrar](https://www.sos.state.tx.us/elections/voter/votregduties.shtml) in writing to receive a new one.
 7. You will automatically receive a new certificate every two years if you haven’t moved from the address at which you are registered.
-8.(picture example down below as reference) 
+<br/>
 ![example image](card.png)
 
 ## Are phones allowed in polling places? 
