@@ -17,7 +17,7 @@ For more information visit [Center for Disease Control](https://www.cdc.gov/coro
 <br/>
 
 <p align="center">
-  <img src="img2.jpg" width="400" height="400">
+  <img src="img2.jpg" width="250" height="325">
 </p>
 
 ## Do I have to wear a mask to vote? 
