@@ -23,7 +23,7 @@ title: Absentee Voting
   1. The Early Voting Clerk is the County Clerk or Elections Administrator for your county
   2. [Contact information](https://www.sos.state.tx.us/elections/voter/county.shtml), including mailing addresses, fax numbers if available, and email addresses for the Early Voting Clerks are available on this website.
   
-          <iframe src="https://giphy.com/embed/4QMcpaQXZOEshaUVsj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loharris-vote-loharrisvote-4QMcpaQXZOEshaUVsj">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/4QMcpaQXZOEshaUVsj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loharris-vote-loharrisvote-4QMcpaQXZOEshaUVsj">via GIPHY</a></p>
 
 #### NOTICE: Do not mail, fax, or email completed applications for Ballot by Mail to the Secretary of State Office. All applications received by this office will be rejected. 
 
