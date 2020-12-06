@@ -8,7 +8,7 @@ Check out the candidates and what their stances are on important issues:
   - [Republican Party Platform](https://prod-cdn-static.gop.com/docs/Resolution_Platform_2020.pdf)
   - Donald Trump's [Website](https://www.donaldjtrump.com/about)
 
-![Trump](dt.jpg){:height="50%" width="50%"} 
+<img src="dt.jpg" width="100" height="100">
 
 * **`Democratic Party`**: [Joe Biden](https://ballotpedia.org/Joe_Biden_presidential_campaign,_2020)
   - [Democratic Party Platform](https://www.demconvention.com/wp-content/uploads/2020/08/2020-07-31-Democratic-Party-Platform-For-Distribution.pdf)
