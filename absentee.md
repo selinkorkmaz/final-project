@@ -29,10 +29,11 @@ title: Absentee Voting
 
 ## Important Dates for Absentee Voting
 Request deadlines: 
-* **`In Person`**: Received 22 days before Election Day.
-* **`By Mail`**: Received 11 days before Election Day.
-* **`Online`**: Received 11 days before Election Day.
-Ballot Deadlines: 
+* **`In Person`**: Received 22 days before Election Day
+* **`By Mail`**: Received 11 days before Election Day
+* **`Online`**: Received 11 days before Election Day
+
+Ballot deadlines: 
 * **`Voted ballots are due`**: Postmarked by Election Day and received by the day after Election Day. 
 
 ## Reasons your mail in ballot could be rejected (taken from the [Notice of Rejected Ballot](https://www.sos.state.tx.us/elections/forms/pol-sub/5-42f.pdf) that you would receive):
