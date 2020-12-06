@@ -2,7 +2,7 @@
 layout: post
 title: Candidate's Information
 ---
-## Candidate's Information
+## Presidential Candidates 
 Check out the candidates and what their stances are on important issues: 
 * **`Republican Party`**: [Donald Trump](https://ballotpedia.org/Donald_Trump_presidential_campaign,_2020)
   - [Republican Party Platform](https://prod-cdn-static.gop.com/docs/Resolution_Platform_2020.pdf)
