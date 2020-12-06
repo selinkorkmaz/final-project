@@ -37,7 +37,7 @@ No! You don’t have to answer everything.
 First, make sure you are at the right polling place. If you are at the wrong polling place they will not have your name on the list of voters. If you are at the correct location and are not on the list, you can still cast a ballot. Ask the poll worker for a provisional ballot. After the polls close on Election Day the state will check on the status of your voter registration and if there was a mistake made. The state must notify you as to whether your ballot was counted. 
 
 ## What do I need to vote? 
-<img src="vote.png" width="300" height="400">
+<img src="vote.png" width="300" height="420">
 
 ## What do I do if I moved? 
 **1. Did you move within your county?**
@@ -67,7 +67,7 @@ There are several ways to do this:
 5. For voters that applied for and received the permanent exemption from showing a photo ID based in their disability status, this status will be notated on their voter registration certificate. These voters are required to present their voter registration certificate when they go to the polls to vote.
 6. If you lose your certificate, notify your county [Voter Registrar](https://www.sos.state.tx.us/elections/voter/votregduties.shtml) in writing to receive a new one.
 7. You will automatically receive a new certificate every two years if you haven’t moved from the address at which you are registered.
-* <img src="card.png" width="320" height="275">
+* <img src="card.png" width="350" height="275">
 
 
 ## Are phones allowed in polling places? 
