@@ -20,9 +20,11 @@ Yes. If you have been diagnosed with COVID-19 or are exhibiting symptoms, consid
 You can check your Texas registration status [here](https://teamrv-mvp.sos.texas.gov/MVP/mvp.do).
 
 ## How do I register to vote? 
-1. To register to vote in Texas, simply complete a voter registration application and return it to your county election office at least 30 days before the upcoming election date.  - To complete an application, you may:
-  - Complete an application using the [SOS ONLINE VOTER REGISTRATION APPLICATION](https://vrapp.sos.state.tx.us/index.asp). Simply fill in the required information, print, sign and mail directly to your county election office.
-- Contact or visit your local [VOTER REGISTRAR](https://www.sos.state.tx.us/elections/voter/votregduties.shtml) to complete the voter registration process.
+1. To register to vote in Texas, simply complete a voter registration application and return it to your county election office at least 30 days before the upcoming election date.  
+To complete an application, you may:
+  - Use the [SOS ONLINE VOTER REGISTRATION APPLICATION](https://vrapp.sos.state.tx.us/index.asp).
+    - Simply fill in the required information, print, sign and mail directly to your county election office.
+  - Contact or visit your local [VOTER REGISTRAR](https://www.sos.state.tx.us/elections/voter/votregduties.shtml) to complete the voter registration process.
 
 ## I am a student, can I register to vote at my school address?
 YES! You have the right to register to vote at your school address – this includes a dorm room. Any student living in a dorm is entitled to the same rights as any other student. To imply otherwise is illegal. If you receive mail in a Post Office box you can sign an affidavit (or, in some cases, get a letter from your college’s Residential Life office) asserting that you live at your dorm address.
@@ -37,13 +39,15 @@ First, make sure you are at the right polling place. If you are at the wrong pol
 ![Vote](vote.png)
 
 ## What do I do if I moved? 
-1. Did you move within your county?
-  - If you moved from one place to another in the same county, you’ll need to notify the [Voter Registrar](http://www.sos.state.tx.us/elections/voter/votregduties.shtml) in your county in writing of your new address. (In most Texas counties, the Tax Assessor-Collector is also the Voter Registrar. In some counties, the [County Clerk or Elections Administrator](http://www.sos.state.tx.us/elections/voter/current.shtml) registers voters.) There are several ways to do this:
+**1. `Did you move within your county?`**
+  - If you moved from one place to another in the same county, you’ll need to notify the [Voter Registrar](http://www.sos.state.tx.us/elections/voter/votregduties.shtml) in your county in writing of your new address. (In most Texas counties, the Tax Assessor-Collector is also the Voter Registrar. In some counties, the [County Clerk or Elections Administrator](http://www.sos.state.tx.us/elections/voter/current.shtml) registers voters.) 
+  
+  There are several ways to do this:
     - Correct your current voter registration certificate on the back and return it to the [Voter Registrar](http://www.sos.state.tx.us/elections/voter/votregduties.shtml).
     - Fill out a new voter registration application form and check the “change” box.
     - When you apply for or change your Texas driver’s license, change your voter information at the same time.
-    - As long as you reside in the same county, you can change your information online at the [Secretary of State’s Voter Registration Name/Address Change](https://txapps.texas.gov/tolapp/sos/SOSACManager) website. The screen will prompt you through the process and the changes that you make will be forwarded to your county [Voter Registrar](http://www.sos.state.tx.us/elections/voter/votregduties.shtml) for processing.  You will be mailed a new certificate with your new address and be able to vote in your new precinct 30 days after you submitted your change. If you miss the 30-day deadline to change information on your voter registration certificate, you may vote in your former precinct as long as you still reside in the political subdivision conducting the election.
-2. Did you move to another county
+    - As long as you reside in the same county, you can change your information online at the [Secretary of State’s Voter Registration Name/Address Change](https://txapps.texas.gov/tolapp/sos/SOSACManager) website. The screen will prompt you through the process and the changes that you make will be forwarded to your county [Voter Registrar](http://www.sos.state.tx.us/elections/voter/votregduties.shtml) for processing. You will be mailed a new certificate with your new address and be able to vote in your new precinct 30 days after you submitted your change. If you miss the 30-day deadline to change information on your voter registration certificate, you may vote in your former precinct as long as you still reside in the political subdivision conducting the election.
+**2. `Did you move to another county?`**
   - If you moved to another county, YOU MUST RE-REGISTER! Fill out and mail a new application, or take it in person, to the [Voter Registrar](http://www.sos.state.tx.us/elections/voter/votregduties.shtml) of your new county. (In most Texas counties, the Tax Assessor-Collector is also the Voter Registrar. In some counties, the [County Clerk or Elections Administrator](http://www.sos.state.tx.us/elections/voter/current.shtml) registers voters.) You will receive a new voter registration certificate 30 days after your application is submitted and accepted.
   - If you are late to register in your new county, you may be able to vote a “limited” ballot on candidates or issues common between your old and new counties. You may only vote this “limited” ballot after you have moved to your new residence, during the early voting period by personal appearance at the main early voting polling place (not on Election Day) or by mail (if otherwise qualified to vote by mail) and if:
     - You are a current registered voter in your former county;
