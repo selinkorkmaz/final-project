@@ -4,8 +4,8 @@ layout: default
 # FAQ
 
 ## What clothing is allowed and not allowed to be worn? 
-- Wearing T-shirts, buttons or hats supporting political candidates at the polls is illegal. 
-- For example, a "Make America Great Again" hat or Joe Biden button would count as electioneering, a Black Lives Matter or “Don’t tread on me” message would
+Wearing T-shirts, buttons or hats supporting political candidates at the polls is illegal. 
+  - For example, a "Make America Great Again" hat or Joe Biden button would count as electioneering, a Black Lives Matter or “Don’t tread on me” message would.
 
 ## Can I vote in person if I already have a mail-in ballot? 
 The short answer is yes. The process will be more streamlined if you bring your mail-in ballot with you to your polling place so you can surrender it before casting your vote. If you don’t have your ballot or never received it, you can still cast a provisional ballot. Your vote will be counted once the county determines it never received your mail-in ballot.
@@ -20,9 +20,9 @@ Yes. If you have been diagnosed with COVID-19 or are exhibiting symptoms, consid
 You can check your Texas registration status [here](https://teamrv-mvp.sos.texas.gov/MVP/mvp.do).
 
 ## How do I register to vote? 
-1. To register to vote in Texas, simply complete a voter registration application and return it to your county election office at least 30 days before the upcoming election date.  To complete an application, you may:
+1. To register to vote in Texas, simply complete a voter registration application and return it to your county election office at least 30 days before the upcoming election date.  - To complete an application, you may:
   - Complete an application using the [SOS ONLINE VOTER REGISTRATION APPLICATION](https://vrapp.sos.state.tx.us/index.asp). Simply fill in the required information, print, sign and mail directly to your county election office.
-  - Contact or visit your local [VOTER REGISTRAR](https://www.sos.state.tx.us/elections/voter/votregduties.shtml) to complete the voter registration process.
+- Contact or visit your local [VOTER REGISTRAR](https://www.sos.state.tx.us/elections/voter/votregduties.shtml) to complete the voter registration process.
 
 ## I am a student, can I register to vote at my school address?
 YES! You have the right to register to vote at your school address – this includes a dorm room. Any student living in a dorm is entitled to the same rights as any other student. To imply otherwise is illegal. If you receive mail in a Post Office box you can sign an affidavit (or, in some cases, get a letter from your college’s Residential Life office) asserting that you live at your dorm address.
