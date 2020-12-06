@@ -28,7 +28,7 @@ Check out the candidates and what their stances are on important issues:
 
   <img src="jj.jpg" width="250" height="225">
 
-Enter an address and a personalized ballot will be generated as a reference. To learn more click [here](https://www.vote411.org/). 
+Want to find out about local and state candidates near you? Enter an address and a personalized ballot will be generated as a reference. To learn more click [here](https://www.vote411.org/). 
 
 ## Presidential Debates
 - You can watch the first debate [here](https://www.youtube.com/watch?v=K8Z9Kqhrh5c). 
