@@ -22,9 +22,10 @@ You can check your Texas registration status [here](https://teamrv-mvp.sos.texas
 ## How do I register to vote? 
 1. To register to vote in Texas, simply complete a voter registration application and return it to your county election office at least 30 days before the upcoming election date.  
 To complete an application, you may:
-  - Use the [SOS ONLINE VOTER REGISTRATION APPLICATION](https://vrapp.sos.state.tx.us/index.asp).
-    - Simply fill in the required information, print, sign and mail directly to your county election office.
-  - Contact or visit your local [VOTER REGISTRAR](https://www.sos.state.tx.us/elections/voter/votregduties.shtml) to complete the voter registration process.
+
+* Use the [SOS ONLINE VOTER REGISTRATION APPLICATION](https://vrapp.sos.state.tx.us/index.asp).
+  * Simply fill in the required information, print, sign and mail directly to your county election office.
+* Contact or visit your local [VOTER REGISTRAR](https://www.sos.state.tx.us/elections/voter/votregduties.shtml) to complete the voter registration process.
 
 ## I am a student, can I register to vote at my school address?
 YES! You have the right to register to vote at your school address – this includes a dorm room. Any student living in a dorm is entitled to the same rights as any other student. To imply otherwise is illegal. If you receive mail in a Post Office box you can sign an affidavit (or, in some cases, get a letter from your college’s Residential Life office) asserting that you live at your dorm address.
