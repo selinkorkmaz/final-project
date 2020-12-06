@@ -25,7 +25,7 @@ title: Absentee Voting
 
 <iframe src="https://giphy.com/embed/4QMcpaQXZOEshaUVsj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loharris-vote-loharrisvote-4QMcpaQXZOEshaUVsj"></a></p>
 
-### NOTICE: Do not mail, fax, or email completed applications for Ballot by Mail to the Secretary of State Office. All applications received by this office will be rejected. 
+#### NOTICE: Do not mail, fax, or email completed applications for Ballot by Mail to the Secretary of State Office. All applications received by this office will be rejected. 
 
 ## Important Dates for Absentee Voting
 Request deadlines: 
@@ -53,6 +53,6 @@ Ballot deadlines:
 * No identification was included with your mail ballot
 * Other:_____
 
-### Military and overseas voters are welcome to use the regular registration and early voting by mail process available to all voters away from their home county on Election Day. However, there are also [special provisions for military and overseas voters](https://www.votetexas.gov/military-overseas-voters/index.html).
+#### Military and overseas voters are welcome to use the regular registration and early voting by mail process available to all voters away from their home county on Election Day. However, there are also [special provisions for military and overseas voters](https://www.votetexas.gov/military-overseas-voters/index.html).
 
-### For more information, please read the [Early Voting in Texas pamphlet](https://www.votetexas.gov/voting/when.html#early-voting).
+#### For more information, please read the [Early Voting in Texas pamphlet](https://www.votetexas.gov/voting/when.html#early-voting).
