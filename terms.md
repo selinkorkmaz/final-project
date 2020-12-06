@@ -43,4 +43,6 @@ layout: default
 22. **`Voter Supression`**: An attempt to prevent eligible people from voting or forcing them to vote a certain way.
 23. **`Voter Guide`**: Information about candidates and issues in an upcoming election- may be non-partisan or may favor a particular party/viewpoint. 
 
-![img1](img1.jpg)
+<p align="center">
+  <img src="img1.jpg" width="400" height="400">
+</p>
