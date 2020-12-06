@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-# Important Dates
-
 **`October 5, 2020`** - Last day to register to vote in November election
 <br/>
 **`October 13, 2020`** - First day of in-person early voting
