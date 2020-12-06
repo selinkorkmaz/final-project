@@ -42,16 +42,14 @@ First, make sure you are at the right polling place. If you are at the wrong pol
 ## What do I do if I moved? 
 **1. `Did you move within your county?`**
   - If you moved from one place to another in the same county, you’ll need to notify the [Voter Registrar](http://www.sos.state.tx.us/elections/voter/votregduties.shtml) in your county in writing of your new address. (In most Texas counties, the Tax Assessor-Collector is also the Voter Registrar. In some counties, the [County Clerk or Elections Administrator](http://www.sos.state.tx.us/elections/voter/current.shtml) registers voters.) 
-<br/>
 
-  There are several ways to do this:
+There are several ways to do this:
   
 * Correct your current voter registration certificate on the back and return it to the [Voter Registrar](http://www.sos.state.tx.us/elections/voter/votregduties.shtml).
 * Fill out a new voter registration application form and check the “change” box.
 * When you apply for or change your Texas driver’s license, change your voter information at the same time.
 * As long as you reside in the same county, you can change your information online at the [Secretary of State’s Voter Registration Name/Address Change](https://txapps.texas.gov/tolapp/sos/SOSACManager) website. 
   * The screen will prompt you through the process and the changes that you make will be forwarded to your county [Voter Registrar](http://www.sos.state.tx.us/elections/voter/votregduties.shtml) for processing. You will be mailed a new certificate with your new address and be able to vote in your new precinct 30 days after you submitted your change. If you miss the 30-day deadline to change information on your voter registration certificate, you may vote in your former precinct as long as you still reside in the political subdivision conducting the election.
-<br/>
 
 **2. `Did you move to another county?`**
 * If you moved to another county, YOU MUST RE-REGISTER! Fill out and mail a new application, or take it in person, to the [Voter Registrar](http://www.sos.state.tx.us/elections/voter/votregduties.shtml) of your new county. (In most Texas counties, the Tax Assessor-Collector is also the Voter Registrar. In some counties, the [County Clerk or Elections Administrator](http://www.sos.state.tx.us/elections/voter/current.shtml) registers voters.) You will receive a new voter registration certificate 30 days after your application is submitted and accepted.
@@ -89,16 +87,14 @@ Persons are not allowed to use wireless communications devices within 100 feet o
 **`What about poll watchers, may they use these devices?`**
   - No. A poll watcher may not be accepted for service if the poll watcher has possession of a device capable of recording images or sound unless the poll watcher agrees to disable or deactivate the device. The early voting clerk or presiding judge, as appropriate, may inquire whether a poll watcher has possession of any prohibited recording devices before accepting the poll watcher for service. The poll watcher must sign an oath stating he or she does not have in his or her possession devices capable of recording images or sound, or that he or she will disable or deactivate the devices while serving as a watcher. Tex. Elec. Code §§ 33.006, et. seq.
   
-**`What about election officials, may they use these devices?`**
-  - Yes, if they are using the device to conduct official duties.
+**What about election officials, may they use these devices?**
+Yes, if they are using the device to conduct official duties.
   
-**`What if the polling location is also a business location where a person may be employed and needing to use a wireless communication device for employment related matters?`**
-  - This is permissible if the person is acting in the course of the person’s employment.
+**What if the polling location is also a business location where a person may be employed and needing to use a wireless communication device for employment related matters?**
+This is permissible if the person is acting in the course of the person’s employment.
   
-**`What if a person enters the 100-foot area while using a wireless communications device or appearing to record sound/image?`**
-  - The early voting clerk and the presiding judge have the authority to require persons to deactivate any such devices and further authority to require persons who do not comply to leave the early voting or election day polling place, as appropriate.
-  - Questions or clarification should be directed to the early voting clerk or the presiding judge in your polling place, as appropriate.
+**What if a person enters the 100-foot area while using a wireless communications device or appearing to record sound/image?**
+The early voting clerk and the presiding judge have the authority to require persons to deactivate any such devices and further authority to require persons who do not comply to leave the early voting or election day polling place, as appropriate. Questions or clarification should be directed to the early voting clerk or the presiding judge in your polling place, as appropriate.
 
-**`How should voters be notified of this law?`**
-  - A notice may be posted at the polling place by the early voting clerk or presiding judge. The notice should be posted where it can be read by persons waiting to vote. Our office has prescribed the wording of such a posted notice: [Notice of Certain Devices Within 100 Feet of Voting Station](https://www.sos.state.tx.us/elections/forms/pol-sub/7-9f.pdf). (PDF) 
-  - If other wording is used, it will need to be approved by our office prior to use.
+**How should voters be notified of this law?**
+A notice may be posted at the polling place by the early voting clerk or presiding judge. The notice should be posted where it can be read by persons waiting to vote. Our office has prescribed the wording of such a posted notice: [Notice of Certain Devices Within 100 Feet of Voting Station](https://www.sos.state.tx.us/elections/forms/pol-sub/7-9f.pdf). (PDF). If other wording is used, it will need to be approved by our office prior to use.
