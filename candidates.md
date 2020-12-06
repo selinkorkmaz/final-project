@@ -14,19 +14,19 @@ Check out the candidates and what their stances are on important issues:
   - [Democratic Party Platform](https://www.demconvention.com/wp-content/uploads/2020/08/2020-07-31-Democratic-Party-Platform-For-Distribution.pdf)
   - Joe Biden's [Website](https://joebiden.com/joes-story/)
 
-![Biden](jb.jpg){:height="50%" width="50%"}
+<img src="jb.jpg" width="100" height="100">
 
 * **`Green Party`**: [Howie Hawkins](https://ballotpedia.org/Howie_Hawkins_presidential_campaign,_2020)
   - [Green Party Platform](https://www.gp.org/platform)
   - Howie Hawkins' [Website](https://howiehawkins.us/)
 
-![Hawkins](hh.jpg){:height="50%" width="50%"}
+<img src="hh.jpg" width="100" height="100">
 
 * **`Libertarian Party`**: [Jo Jorgensen](https://ballotpedia.org/Jo_Jorgensen_presidential_campaign,_2020)
   - [Libertarian Party Platform](https://www.lp.org/platform/)
   - Jo Jorgensen's [Website](https://jo20.com/)
 
-![Jorgensen](jj.jpg){:height="50%" width="50%"}
+<img src="jj.jpg" width="100" height="100">
 
 Enter an address and a personalized ballot will be generated as a reference. To learn more click [here](https://www.vote411.org/). 
 
