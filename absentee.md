@@ -22,8 +22,10 @@ title: Absentee Voting
 8. Address and mail the completed ABBM to the Early Voting Clerk in your county. You may also fax the application if a fax machine is available in the early voting clerk’s office.  You also have the option of submitting a scanned copy of the completed and signed application to the Early Voting Clerk via email. If an ABBM is faxed or emailed, then the original, hard copy of the application MUST be mailed and received by the early voting clerk no later than the 4th business day.
   1. The Early Voting Clerk is the County Clerk or Elections Administrator for your county
   2. [Contact information](https://www.sos.state.tx.us/elections/voter/county.shtml), including mailing addresses, fax numbers if available, and email addresses for the Early Voting Clerks are available on this website.
-  
+
+<p align="center">
 <iframe src="https://giphy.com/embed/4QMcpaQXZOEshaUVsj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loharris-vote-loharrisvote-4QMcpaQXZOEshaUVsj">via GIPHY</a></p>
+</p>
 
 #### NOTICE: Do not mail, fax, or email completed applications for Ballot by Mail to the Secretary of State Office. All applications received by this office will be rejected. 
 
