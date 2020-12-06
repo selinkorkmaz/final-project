@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-# FAQ
-
 ## What clothing is allowed and not allowed to be worn? 
 Wearing T-shirts, buttons or hats supporting political candidates at the polls is illegal. 
   - For example, a "Make America Great Again" hat or Joe Biden button would count as electioneering, a Black Lives Matter or “Don’t tread on me” message would.
