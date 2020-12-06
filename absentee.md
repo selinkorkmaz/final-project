@@ -23,16 +23,16 @@ title: Absentee Voting
   1. The Early Voting Clerk is the County Clerk or Elections Administrator for your county
   2. [Contact information](https://www.sos.state.tx.us/elections/voter/county.shtml), including mailing addresses, fax numbers if available, and email addresses for the Early Voting Clerks are available on this website.
 
-<iframe src="https://giphy.com/embed/4QMcpaQXZOEshaUVsj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loharris-vote-loharrisvote-4QMcpaQXZOEshaUVsj">via GIPHY</a></p>
-## NOTICE: Do not mail, fax, or email completed applications for Ballot by Mail to the Secretary of State Office. All applications received by this office will be rejected. 
+<iframe src="https://giphy.com/embed/4QMcpaQXZOEshaUVsj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loharris-vote-loharrisvote-4QMcpaQXZOEshaUVsj"></a></p>
+### NOTICE: Do not mail, fax, or email completed applications for Ballot by Mail to the Secretary of State Office. All applications received by this office will be rejected. 
 
 ## Important Dates for Absentee Voting
 Request deadlines: 
-  **`In Person`**: Received 22 days before Election Day.
-  **`By Mail`**: Received 11 days before Election Day.
-  **`Online`**: Received 11 days before Election Day.
+* **`In Person`**: Received 22 days before Election Day.
+* **`By Mail`**: Received 11 days before Election Day.
+* **`Online`**: Received 11 days before Election Day.
 Ballot Deadlines: 
-  **`Voted ballots are due`**: Postmarked by Election Day and received by the day after Election Day. 
+* **`Voted ballots are due`**: Postmarked by Election Day and received by the day after Election Day. 
 
 ## Reasons your mail in ballot could be rejected (taken from the [Notice of Rejected Ballot](https://www.sos.state.tx.us/elections/forms/pol-sub/5-42f.pdf) that you would receive):
 * Certificate on carrier envelope was not properly executed
@@ -51,6 +51,6 @@ Ballot Deadlines:
 * No identification was included with your mail ballot
 * Other:_____
 
-## Military and overseas voters are welcome to use the regular registration and early voting by mail process available to all voters away from their home county on Election Day. However, there are also [special provisions for military and overseas voters](https://www.votetexas.gov/military-overseas-voters/index.html).
+### Military and overseas voters are welcome to use the regular registration and early voting by mail process available to all voters away from their home county on Election Day. However, there are also [special provisions for military and overseas voters](https://www.votetexas.gov/military-overseas-voters/index.html).
 
-## For more information, please read the [Early Voting in Texas pamphlet](https://www.votetexas.gov/voting/when.html#early-voting).
+### For more information, please read the [Early Voting in Texas pamphlet](https://www.votetexas.gov/voting/when.html#early-voting).
