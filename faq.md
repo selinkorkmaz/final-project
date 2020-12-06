@@ -37,7 +37,9 @@ No! You don’t have to answer everything.
 First, make sure you are at the right polling place. If you are at the wrong polling place they will not have your name on the list of voters. If you are at the correct location and are not on the list, you can still cast a ballot. Ask the poll worker for a provisional ballot. After the polls close on Election Day the state will check on the status of your voter registration and if there was a mistake made. The state must notify you as to whether your ballot was counted. 
 
 ## What do I need to vote? 
-![Vote](vote.png)
+<p align="center">
+  <img src="vote.png" width="300" height="400">
+</p>
 
 ## What do I do if I moved? 
 **1. Did you move within your county?**
